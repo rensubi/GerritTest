@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "2ea0d730_a50acd2e",
+        "filename": "README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1012711
+      },
+      "writtenOn": "2017-10-24T18:43:34Z",
+      "side": 1,
+      "message": "Reviewed in Gerrit",
+      "range": {
+        "startLine": 3,
+        "startChar": 38,
+        "endLine": 3,
+        "endChar": 39
+      },
+      "revId": "8cd187d1ce3be93edd96135464e5bd83098c76d4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
